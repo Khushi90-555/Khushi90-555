@@ -28,7 +28,7 @@
 
 <a href="https://github.com/Khushi90-555"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi90-555&theme=dracula&hide_border=true" width="100%" alt="Contribution activity graph"></a>
 
-## 🐍 Contributions, but make them move
+## 🐍 my snakey ate all my contributions!!!! 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushi90-555/Khushi90-555/output/github-contribution-grid-snake-dark.svg">
